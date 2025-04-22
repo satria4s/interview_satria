@@ -1,6 +1,6 @@
 # Interview Test - Satria Audria Sakti
 
-Repository hasil pengerjaan interview pada **PT Orico Balimor Finance**  
+Repository hasil pengerjaan interview test di **PT Orico Balimor Finance**  
 🗓️ Tanggal: 22–23 April 2025
 
 ## 📂 Konten Repository
